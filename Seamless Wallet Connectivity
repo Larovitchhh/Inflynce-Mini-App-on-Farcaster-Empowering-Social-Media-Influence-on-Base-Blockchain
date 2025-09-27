@@ -1,0 +1,2 @@
+Inflynce uses Farcaster’s Mini App SDK to enable wallet interactions, with Base as a supported chain (chain ID: eip155:8453). Users can connect their Ethereum wallets (e.g., Coinbase Wallet, MetaMask) to Inflynce via the SDK’s sdk.wallet.getEthereumProvider() or @farcaster/frame-wagmi-connector, allowing them to sign transactions or claim rewards directly within the app. Base’s EIP-1193 provider support ensures smooth wallet interactions, enhancing the user experience.
+
