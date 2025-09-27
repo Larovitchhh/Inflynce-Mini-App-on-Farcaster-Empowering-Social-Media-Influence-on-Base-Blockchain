@@ -1,2 +1,4 @@
 # Inflynce-Mini-App-on-Farcaster-Empowering-Social-Media-Influence-on-Base-Blockchain
 Inflynce Mini App on Farcaster: Empowering Social Media Influence on Base Blockchain
+Farcaster, a decentralized social network, has become a hub for innovative Web3 applications, thanks to its Mini Apps framework. Among these, Inflynce stands out as a powerful tool that bridges social media influence with onchain analytics, enabling users to quantify and monetize their digital presence. Built with compatibility for the Base blockchain, an Ethereum Layer-2 scaling solution, Inflynce leverages Farcaster’s social infrastructure and Base’s cost-efficient ecosystem to deliver a unique blend of social and financial empowerment. This article explores the Inflynce Mini App, its functionality, and its relationship with the Base blockchain within the Farcaster ecosystem.
+
