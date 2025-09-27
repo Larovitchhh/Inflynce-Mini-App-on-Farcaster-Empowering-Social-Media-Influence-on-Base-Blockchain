@@ -1,0 +1,2 @@
+Inflynce stores users’ Inflynce Scores and related metadata on the Base blockchain, taking advantage of its low-cost transactions to record frequent updates. For example, each time a user’s score changes based on their Farcaster activity, Inflynce can write this data to Base without incurring high gas fees, ensuring affordability for users and developers. This onchain storage makes scores verifiable and interoperable across Web3 platforms.
+
