@@ -1,0 +1,2 @@
+Inflynce leverages Farcaster’s Sign-In With Farcaster (SIWF, FIP-11) for seamless user authentication, allowing users to log in with their Farcaster account and associated wallet. Base’s support for Farcaster auth addresses enhances this process, particularly for users accessing Inflynce through The Base App. By passing a SIWF message signed by an auth address to loginToMiniApp, Inflynce ensures secure and automatic login, with Base’s infrastructure handling the underlying transaction
+
