@@ -1,0 +1,9 @@
+Inflynce is a Farcaster Mini App designed to analyze and score a user’s social media influence, transforming it into a verifiable, onchain metric. By integrating with Farcaster’s decentralized social graph, Inflynce evaluates a user’s activity, engagement, and network reach to generate an “Inflynce Score”—a dynamic measure of their social capital. Unlike traditional social media analytics, which are often siloed and opaque, Inflynce brings transparency and composability to influence metrics by storing them on the blockchain, specifically leveraging Base for its scalability and affordability.Key features of Inflynce include:Inflynce Score: A proprietary algorithm assesses a user’s Farcaster activity (e.g., posts, likes, follows, and interactions) to assign a score reflecting their influence. This score is stored onchain, making it verifiable and portable across Web3 platforms.
+Onchain Rewards: Users with high Inflynce Scores can unlock rewards, such as tokens, NFTs, or access to exclusive opportunities, fostering engagement and monetization.
+Social-to-Financial Bridge: Inflynce enables users to leverage their social capital for DeFi opportunities, such as collateralized lending or staking, by integrating with Base-based protocols.
+Seamless Integration: As a Farcaster Mini App, Inflynce is accessible directly within Farcaster clients like Warpcast, offering a native-like experience with one-click interactions.
+
+Personalized Sharing: Users can share their Inflynce Score via Farcaster posts, with dynamic embeds (e.g., personalized images or URLs) to boost virality.
+
+Inflynce’s mission is to empower users to own and monetize their social influence, aligning with Farcaster’s vision of a decentralized, user-controlled social network. By combining social analytics with blockchain technology, Inflynce creates a new paradigm for creators, influencers, and everyday users.
+
